@@ -20,6 +20,7 @@ function App() {
         <div>ㅋㅋㅋ</div>
         <div>2</div>
         <div>2</div>
+        <div>3</div>
       </header>
     </div>
   );

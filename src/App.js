@@ -24,6 +24,7 @@ function App() {
         <div>4</div>
         <div>feat/new</div>
         <div>feat/login</div>
+        <div>from remote</div>
       </header>
     </div>
   );

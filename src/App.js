@@ -17,15 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <div>ㅋㅋㅋ</div>
-        <div>2</div>
-        <div>2</div>
-        <div>3</div>
-        <div>4</div>
-        <div>feat/new</div>
-        <div>feat/login</div>
-        <div>from remote</div>
-        <div>jinsoul/login</div>
+        <div>오늘은 6월 15일 9시 10분</div>
       </header>
     </div>
   );

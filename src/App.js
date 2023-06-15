@@ -20,6 +20,7 @@ function App() {
         <div>오늘은 6월 15일 9시 10분</div>
         <div>오늘은 6월 15일 9시 33분</div>
         <div>오늘은 6월 15일 9시 45분</div>
+        <div>여러분 오늘도 화이팅 !</div>
       </header>
     </div>
   );

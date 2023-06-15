@@ -18,8 +18,7 @@ function App() {
           Learn React
         </a>
         <div>오늘은 6월 15일 9시 10분</div>
-        <div>오늘은 6월 15일 9시 33분</div>
-        <div>오늘은 6월 15일 9시 50분</div>
+        <dig>오늘은 6월 15일 9시 33분</dig>
       </header>
     </div>
   );
